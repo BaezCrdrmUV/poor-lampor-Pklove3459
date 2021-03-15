@@ -1,0 +1,14 @@
+D:\ProyectosVisualStudio\poor-lampor-Pklove3459\PoorLamport\PoorLamport\obj\Debug\MainWindow.g.cs
+D:\ProyectosVisualStudio\poor-lampor-Pklove3459\PoorLamport\PoorLamport\obj\Debug\App.g.cs
+D:\ProyectosVisualStudio\poor-lampor-Pklove3459\PoorLamport\PoorLamport\obj\Debug\PoorLamport_MarkupCompile.cache
+D:\ProyectosVisualStudio\poor-lampor-Pklove3459\PoorLamport\PoorLamport\obj\Debug\PoorLamport_MarkupCompile.lref
+D:\ProyectosVisualStudio\poor-lampor-Pklove3459\PoorLamport\PoorLamport\bin\Debug\PoorLamport.exe.config
+D:\ProyectosVisualStudio\poor-lampor-Pklove3459\PoorLamport\PoorLamport\bin\Debug\PoorLamport.exe
+D:\ProyectosVisualStudio\poor-lampor-Pklove3459\PoorLamport\PoorLamport\bin\Debug\PoorLamport.pdb
+D:\ProyectosVisualStudio\poor-lampor-Pklove3459\PoorLamport\PoorLamport\obj\Debug\MainWindow.baml
+D:\ProyectosVisualStudio\poor-lampor-Pklove3459\PoorLamport\PoorLamport\obj\Debug\PoorLamport.g.resources
+D:\ProyectosVisualStudio\poor-lampor-Pklove3459\PoorLamport\PoorLamport\obj\Debug\PoorLamport.Properties.Resources.resources
+D:\ProyectosVisualStudio\poor-lampor-Pklove3459\PoorLamport\PoorLamport\obj\Debug\PoorLamport.csproj.GenerateResource.cache
+D:\ProyectosVisualStudio\poor-lampor-Pklove3459\PoorLamport\PoorLamport\obj\Debug\PoorLamport.csproj.CoreCompileInputs.cache
+D:\ProyectosVisualStudio\poor-lampor-Pklove3459\PoorLamport\PoorLamport\obj\Debug\PoorLamport.exe
+D:\ProyectosVisualStudio\poor-lampor-Pklove3459\PoorLamport\PoorLamport\obj\Debug\PoorLamport.pdb
